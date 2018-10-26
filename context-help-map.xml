@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Petra" path="PetraDITA-master/PetraDITA-master/Petra.html"/>
+   <appContext helpID="intro" path="intro.html"/>
+   <appContext helpID="concept_lr4_3y5_rbb"
+               path="PetraDITA-master/PetraDITA-master/PetraConcept.html"/>
+   <appContext helpID="reference_ibn_ccv_rbb"
+               path="PetraDITA-master/PetraDITA-master/PetraRef.html"/>
+   <appContext helpID="task_orl_sy5_rbb"
+               path="PetraDITA-master/PetraDITA-master/PetraTask.html"/>
+</map>
